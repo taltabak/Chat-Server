@@ -1,9 +1,8 @@
 
-LOGIN: talta
-CREATED BY: Tal Tabak ,  ID : 203664487 .
+CREATED BY: Tal Tabak.
 
-NAME OF THE EXERCISE: 
-    EX4 - Server with select 
+Description: 
+    Group Chat Server (with select()). 
 
 PROGRAM FILES: 
      chatserver.c -An implementaion of a chat server, clients connect to the server , send messages and every client gets all the messages.
